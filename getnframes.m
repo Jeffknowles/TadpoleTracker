@@ -1,0 +1,2 @@
+function nframes=getnframes(MOV)
+
